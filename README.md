@@ -18,7 +18,7 @@
 
 ## Wiki
 
-This project has its own [Wiki](https://github.com/andreyoshimura/wiki) which will provide you with further information about the Azure Security Center community, how to contribute, templates to use, and further resources
+Este projeto tem seu proprio [Wiki](https://github.com/andreyoshimura/wiki), que fornecerá mais informações sobre a comunidade, como contribuir, modelos a serem usados ​​e outros recursos
 
 <p align="left">
   💌 Redes Sociais: ⤵️
