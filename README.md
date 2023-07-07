@@ -8,11 +8,11 @@
 </p>
 
 <p align="left">
-  🦄 Experiência em Soluções: <strong>SIEM,EDR.</strong>
+  🦄 Experiência em Soluções: SIEM,EDR.
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>SPLUNK,ALIEN VAULT,EGAMBIT SOAR,PALO ALTO, MICROSOFT ATP.</strong>
+  💼 Ferramentas: SPLUNK,ALIEN VAULT,EGAMBIT SOAR,PALO ALTO, MICROSOFT ATP.
 </p>
 
 
@@ -21,7 +21,7 @@
 Este projeto tem seu proprio [Wiki](https://github.com/andreyoshimura/wiki), que fornecerá mais informações sobre a comunidade, como contribuir, modelos a serem usados ​​e outros recursos
 
 <p align="left">
-  💌 Redes Sociais: ⤵️
+   Redes Sociais: ⤵️
 </p>
 
 <p align="left">
