@@ -3,14 +3,14 @@
 
 
 <p align="left"> 
+  
   Seja bem vindo.<br>
-  Perfil em construção 
+
 </p>
 
 <p align="left">
   🦄 Experiência em Soluções: SIEM,EDR.
 </p>
-
 <p align="left">
   💼 Ferramentas: SPLUNK,ALIEN VAULT,EGAMBIT SOAR,PALO ALTO, MICROSOFT ATP.
 </p>
