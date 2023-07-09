@@ -18,7 +18,7 @@
 
 ## Wiki
 
-Este projeto tem seu proprio [Wiki](https://github.com/andreyoshimura/wiki), que fornecerá mais informações sobre a comunidade, como contribuir, modelos a serem usados ​​e outros recursos
+Este projeto tem a sua própria [Wiki](https://github.com/andreyoshimura/wiki), que fornecerá mais informações sobre a comunidade, como contribuir, modelos a serem usados ​​e outros recursos
 
 <p align="left">
    Redes Sociais: ⤵️
