@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  Experiência em Soluções: SIEM,EDR.
+  Experiência em Soluções: WAF,SIEM,FIREWALL,EDR,XDR,ITDR
 </p>
 <p align="left">
   💼 Ferramentas: SPLUNK,ALIEN VAULT,EGAMBIT SOAR,PALO ALTO, MICROSOFT ATP.
