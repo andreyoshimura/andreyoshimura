@@ -9,10 +9,10 @@
 </p>
 
 <p align="left">
-  Experiência em Soluções: WAF,SIEM,FIREWALL,EDR,XDR,ITDR
+  Experiência em Soluções: Threath Intelligence,WAF,SIEM,FIREWALL,EDR,XDR,ITDR.
 </p>
 <p align="left">
-  💼 Ferramentas: SPLUNK,ALIEN VAULT,EGAMBIT SOAR,PALO ALTO, MICROSOFT ATP.
+  💼 Ferramentas: SIXGILL,SPLUNK,ALIEN VAULT,EGAMBIT SOAR,PALO ALTO, MICROSOFT ATP.
 </p>
 
 
