@@ -12,14 +12,12 @@
   Experiência em Soluções: Threath Intelligence,WAF,SIEM,FIREWALL,EDR,XDR,ITDR.
 </p>
 <p align="left">
-  💼 Ferramentas: SIXGILL,SPLUNK,ALIEN VAULT,EGAMBIT SOAR,ELK,ACUNETIX,PALO ALTO, MICROSOFT ATP.
+## 💼 Ferramentas: SIXGILL,SPLUNK,ALIEN VAULT,EGAMBIT SOAR,ELK,ACUNETIX,PALO ALTO, MICROSOFT ATP.
 </p>
 ## 🎓 Formação Acadêmica
 
 **MBA em Cyber Security Management**  
 _Instituto de Gestão e Tecnologia da Informação (XPE)_  
-📍 Brasil  
-📅 *Período não especificado*
 
 - IT Management and Controls – COBIT  
 - Innovation and Design Thinking  
@@ -31,10 +29,8 @@ _Instituto de Gestão e Tecnologia da Informação (XPE)_
 
 ---
 
-**Tecnólogo em Redes de Computadores**  
+**Redes de Computadores**  
 _Universidade Paulista (UNIP)_  
-📍 São Paulo – SP  
-📅 2014 – 2019
 
 - Database Administration  
 - Network Management and Administration  
